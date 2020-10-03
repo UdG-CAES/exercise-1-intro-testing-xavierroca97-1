@@ -1,1 +1,4 @@
-# UdG-CAES2021-Exercise-Intro_Testing
+# UdG CAES1920 - Exercise Intro Testing
+
+More info on moodle
+
